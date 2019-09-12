@@ -2,7 +2,7 @@
 title: Javascript Fuzzing Survey
 summary: 최신 자바스크립트 엔진 대상 퍼징 연구동향에 대해 살펴봅니다.
 author: 
-    name: Kyungdong Kim(@kanch0) of Diffense
+    name: Kyungdong Kim(@kanch0)
 ---
 
 ## 들어가며
